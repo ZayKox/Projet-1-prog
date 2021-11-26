@@ -1,5 +1,5 @@
 # Projet-1-prog
-1er projet en BUT 1er année, programmation en c pour tous les détails rendez-vous dans le readMe.txt.
+1er projet en BUT 1er année, programmation en c.
 Petit projet que je devais faire en 4 semaines, le but était de prendre en entrée des fichiers .txt qui contenait le nom de joueuse de tennis
 pour ensuite appliquer des commandes pour afficher un résultat qui sont détaillés dans le fichier "IAP-2122-sem4-CoursProjet-By4-270921.pdf", se 
 ficher était le document que nous avions reçu pour nous expliquer les choses demandées.
