@@ -1,7 +1,7 @@
 # Projet-1-prog
 1er projet en BUT 1er année, programmation en c.
 Petit projet que je devais faire en 4 semaines, le but était de prendre en entrée des fichiers .txt qui contenait le nom de joueuse de tennis
-pour ensuite appliquer des commandes pour afficher un résultat qui sont détaillés dans le fichier "IAP-2122-sem4-CoursProjet-By4-270921.pdf", se 
+pour ensuite appliquer des commandes pour afficher un résultat qui sont détaillés dans le fichier "IAP-2122-sem4-CoursProjet-By4-270921.pdf", ce 
 ficher était le document que nous avions reçu pour nous expliquer les choses demandées.
 Le projet contient les sprints finaux dans le dossier Sprint_fin (les fichiers in "inG07Sp.txt" et out "outG07Sp.txt", le out nous permis de comparer nos résultats pour voir 
 les éventuels problèmes), le fichier codé en C ("main.c"), le sujet du projet ("Projet-IAP-2122-By2.pdf") et les consignes du projet 
